@@ -1,0 +1,4 @@
+../src/checktests/test0.txt:9:    asd
+../src/checktests/test0.txt:10:asdfga
+../src/checktests/test4.txt:2:asd
+../src/checktests/test4.txt:4:asd!
